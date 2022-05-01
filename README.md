@@ -4,7 +4,7 @@ This repository contains starter code for attempting a TypeScript kata exercise.
 
 It assumes that you have Node and NPM installed.
 
-If you haven't yet installed these, it's worth following the instructions on the Scala refresh exercises regarding Scala setup and installation
+If you haven't yet installed these, it's worth following the instructions on the JavaScript refresh exercises regarding Node setup and installation
 
 https://github.com/techreturners/js_coding_exercises
 
