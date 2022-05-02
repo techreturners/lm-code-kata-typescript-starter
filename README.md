@@ -52,7 +52,7 @@ Go to GitHub.com and create a new repository.
 
 Give the repository a name - suggest naming the repository the same name as your folder.
 
-Make sure it is **Public**
+Make sure it is **Private**
 
 Then leave everything else as blank. So do NOT create a README, GitIgnore or Licence.
 
